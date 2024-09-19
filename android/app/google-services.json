@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "836111214737",
+    "project_id": "tasks-921f6",
+    "storage_bucket": "tasks-921f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836111214737:android:961fb2a471e50652bbb730",
+        "android_client_info": {
+          "package_name": "com.example.aplikacija"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQVuD0aUrwgG1rbaI4uu2flvS3ahanXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836111214737:android:5b3d562d8e980c22bbb730",
+        "android_client_info": {
+          "package_name": "com.example.deseta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQVuD0aUrwgG1rbaI4uu2flvS3ahanXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836111214737:android:1e53146067f99e9fbbb730",
+        "android_client_info": {
+          "package_name": "com.example.jedanaesta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQVuD0aUrwgG1rbaI4uu2flvS3ahanXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
