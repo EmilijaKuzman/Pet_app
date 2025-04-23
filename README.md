@@ -1,16 +1,34 @@
-# aplikacija
+# 🐶 Pet Care App
 
-A new Flutter project.
+A mobile application developed in **Flutter** that helps users manage information about their pets. The app allows users to register, log in, and keep track of their pet's details in a structured and simple interface. It's designed for pet owners who want a digital way to organize everything about their furry friends.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 **User Authentication**
+  - Sign up and login functionality using Firebase Authentication
+  - Secure access to user-specific data
 
-A few resources to get you started if this is your first Flutter project:
+- 🐕 **Pet Management**
+  - Add, edit, and delete pets
+  - Save details such as pet name, age, breed, weight, and photo
+  - Option to add notes or health info
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🗃️ **Database Integration**
+  - Firebase Firestore for real-time database functionality
+  - All data is synced per user account
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🧭 **Navigation**
+  - Clean and intuitive navigation using `BottomNavigationBar` and routing
+  - Separate screens for pet list, add pet, profile, and settings
+
+- 🌗 **User-Friendly Interface**
+  - Built with Flutter Material Design components
+  - Responsive design with support for dark mode
+
+## 🧰 Tech Stack
+
+- **Flutter & Dart** – Cross-platform mobile development  
+- **Firebase Authentication** – User login and registration  
+- **Firebase Firestore** – Cloud-hosted NoSQL database for storing pet data  
+- **Provider** – State management across screens  
+- **Image Picker** – For uploading pet images from gallery or camera  
